@@ -1,19 +1,21 @@
-# 📊 Grading System
+# Grading System
 
-A grading system interface — compute and display student grades.
+## Overview
 
-## 🧰 Tech Stack
+A grading system interface for computing and displaying student grades.
 
-`CSS3` `HTML5` `JavaScript`
+## Technology Stack
 
-## 🚀 Getting Started
+CSS3, HTML5, JavaScript
+
+## Getting Started
 
 ```bash
 git clone https://github.com/Tech-Guru19/Grading-System.git
 cd Grading-System
-# open index.html in your browser (or npm install && npm run dev for React/Node projects)
+# Open index.html in your browser, or run npm install && npm run dev for React and Node projects
 ```
 
-## 👩‍💻 Author
+## Author
 
-**[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)**
+[Obiasogu Esther Chizaram](https://github.com/Tech-Guru19)
